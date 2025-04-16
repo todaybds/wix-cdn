@@ -113,12 +113,12 @@ body {  position:relative; color:#333; }
 
 
 
-/****�꾨━誘몄뾼�곸뿭****/
+/****í”„ë¦¬ë¯¸ì—„ì˜ì—­****/
 #premium {  position: relative;  width: 100%;  overflow: hidden;  background-color: #f7fafc;}
 .premium_title {  width: 1400px;  margin: 115px auto 50px;  display: flex;  justify-content: space-between;  position: relative;}
 .premium_title .lotbox {  position: absolute;  width: 190px;  height: 170px;  right: 0;  z-index: 100;  bottom: -150px;  display: flex;  justify-content: center;  align-items: center;}
 .premium_title .lotbox img {  position: relative;  z-index: 21;}
-.premium_title .lotbox::after {  content: "";  display: block;  position: absolute;  width: 165px;  height: 165px;  top: 0;  animation: rotateroof 5s linear infinite;  background: url("../img/main/lot.png") no-repeat;  background-position: center center;  z-index: 20;}
+.premium_title .lotbox::after {  content: "";  display: block;  position: absolute;  width: 165px;  height: 165px;  top: 0;  animation: rotateroof 5s linear infinite;  background: url("https://icheon.ensvil.com/home/img/main/lot.png") no-repeat;  background-position: center center;  z-index: 20;}
 
 @keyframes rotateroof {
   100% {
@@ -128,7 +128,7 @@ body {  position:relative; color:#333; }
 
 .premium_controlbox {  width: 228px;  position: relative;  display: flex;  justify-content: space-between;  padding-top: 40px;}
 .premiumbox {  width: 1920px;  left: 50%;  transform: translateX(-50%);  position: relative;  transition: 0.8s all;  padding-bottom: 150px;}
-.premiumbox::after {  content: "";  display: block;  position: absolute;  width: 656px;  height: 106px;  bottom: 0;  right: 100px;  background: url("../img/main/deco.png") no-repeat;  background-position: center center;  z-index: 20;}
+.premiumbox::after {  content: "";  display: block;  position: absolute;  width: 656px;  height: 106px;  bottom: 0;  right: 100px;  background: url("https://icheon.ensvil.com/home/img/main/deco.png") no-repeat;  background-position: center center;  z-index: 20;}
 .premium_sldiebox {  width: 100%;  position: relative;  transition: 1s ease-in;  opacity: 1;}
 .premiumslide {  width: 100%;  overflow: hidden;}
 .premiumslide .swiper-slide {  overflow: hidden;  width: 1400px !important;  position: relative;  box-sizing: border-box;  border: hidden;  border-top-right-radius: 0;}
@@ -157,7 +157,7 @@ body {  position:relative; color:#333; }
 .pr-pagination .swiper-pagination-bullet-active {  color: #fff;  background: #023461 !important;}
 
 
-/****�꾨━誘몄뾼�곸뿭****/
+/****í”„ë¦¬ë¯¸ì—„ì˜ì—­****/
 
 
 .mainMap			{height:770px; background:url("/home/images/main/mainMap_bg.jpg") no-repeat top center}
@@ -227,7 +227,7 @@ body {  position:relative; color:#333; }
 
 
 
-/* 愿��ш퀬媛앸벑濡� */
+/* ê´€ì‹¬ê³ ê°ë“±ë¡ */
 .register_text	{text-align:center; }
 .regWrap	{margin-bottom:50px;}
 .regWrap h3	{display:block; margin-bottom:20px; font-size:20px; font-weight:600; letter-spacing:-1px;}
@@ -254,7 +254,7 @@ body {  position:relative; color:#333; }
 .regBtn	 a		{display:inline-block; width:30%; background-color:#023461; color:#fff; line-height:60px; border-radius:5px; font-size: 18px; }
 .regBtn	 a:hover	{ background-color:#9e8368; }
 
-/*  �몃줎蹂대룄  */
+/*  ì–¸ë¡ ë³´ë„  */
 
 .news_wrap			{overflow: hidden; border-top:2px solid #023461; }
 .news_wrap		 ul		{overflow: hidden;}
@@ -276,7 +276,7 @@ body {  position:relative; color:#333; }
 
 
 
-/*  怨듭��ы빆  */
+/*  ê³µì§€ì‚¬í•­  */
 
 
 .list_table			table				{width:100%;}

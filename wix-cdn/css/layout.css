@@ -113,7 +113,7 @@ body {  position:relative; color:#333; }
 
 
 
-/****í”„ë¦¬ë¯¸ì—„ì˜ì—­****/
+/****�꾨━誘몄뾼�곸뿭****/
 #premium {  position: relative;  width: 100%;  overflow: hidden;  background-color: #f7fafc;}
 .premium_title {  width: 1400px;  margin: 115px auto 50px;  display: flex;  justify-content: space-between;  position: relative;}
 .premium_title .lotbox {  position: absolute;  width: 190px;  height: 170px;  right: 0;  z-index: 100;  bottom: -150px;  display: flex;  justify-content: center;  align-items: center;}
@@ -157,7 +157,7 @@ body {  position:relative; color:#333; }
 .pr-pagination .swiper-pagination-bullet-active {  color: #fff;  background: #023461 !important;}
 
 
-/****í”„ë¦¬ë¯¸ì—„ì˜ì—­****/
+/****�꾨━誘몄뾼�곸뿭****/
 
 
 .mainMap			{height:770px; background:url("/home/images/main/mainMap_bg.jpg") no-repeat top center}
@@ -227,7 +227,7 @@ body {  position:relative; color:#333; }
 
 
 
-/* ê´€ì‹¬ê³ ê°ë“±ë¡ */
+/* 愿��ш퀬媛앸벑濡� */
 .register_text	{text-align:center; }
 .regWrap	{margin-bottom:50px;}
 .regWrap h3	{display:block; margin-bottom:20px; font-size:20px; font-weight:600; letter-spacing:-1px;}
@@ -254,7 +254,7 @@ body {  position:relative; color:#333; }
 .regBtn	 a		{display:inline-block; width:30%; background-color:#023461; color:#fff; line-height:60px; border-radius:5px; font-size: 18px; }
 .regBtn	 a:hover	{ background-color:#9e8368; }
 
-/*  ì–¸ë¡ ë³´ë„  */
+/*  �몃줎蹂대룄  */
 
 .news_wrap			{overflow: hidden; border-top:2px solid #023461; }
 .news_wrap		 ul		{overflow: hidden;}
@@ -276,7 +276,7 @@ body {  position:relative; color:#333; }
 
 
 
-/*  ê³µì§€ì‚¬í•­  */
+/*  怨듭��ы빆  */
 
 
 .list_table			table				{width:100%;}
